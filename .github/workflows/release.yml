@@ -5,9 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 - name: Zip Release
-  uses: TheDoctor0/zip-release@0.6.0
-- name: Upload Release
-  uses: ncipollo/release-action@v1
+  uses: TheDoctor0/zip-release@0.6.0 ncipollo/release-action@v1
   with:
     artifacts: "release.zip"
         filename: 'release.zip'
