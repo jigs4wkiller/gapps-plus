@@ -3,6 +3,7 @@
 Ｄｅｓｃｒｉｐｔｉｏｎ
 
 
+
 A Magisk module that does the following:
 
 - Replacement of most MIUI apps with a counterpart from Google
@@ -18,6 +19,7 @@ Some features are restricted to mmx, xiaomi.eu and similar roms.
 Ｒｅｑｕｉｒｅｍｅｎｔｓ
 
 
+
 All Xiaomi devices with arm64-v8a / snapdragon
 Minimum:MIUI 12, Android 11
 Recommend:MIUI 12.5, Android 11
@@ -28,6 +30,7 @@ Stock roms are also supported but with less priority
 
 Ｇｏｏｇｌｅ  Ａｐｐｓ
 ｉｎｃｌｕｄｅｄ
+
 
 
 • ArCore
@@ -82,8 +85,10 @@ Stock roms are also supported but with less priority
 
 
 
+
 Ａｄｄｉｔｉｏｎａｌ  Ａｐｐｓ／
 Ｔｗｅａｋｓ
+
 
 
 • Adaway
@@ -118,7 +123,9 @@ Stock roms are also supported but with less priority
 
 
 
+
 ＭＩＵＩ  Ａｐｐｓ ｒｅｍｏｖｅｄ
+
 
 
 - All apps to which there is a Google alternative and a lot more.
@@ -127,7 +134,7 @@ Stock roms are also supported but with less priority
 
 
 
-Ｔｈｒｅａｄ   Ｎａｖｉｇａｔｉｏｎ
+
 
 
 ＭＩＵＩ  ｗａｓ  ａ  Ｉｎｓｉｄｅ  Ｊｏｂ
