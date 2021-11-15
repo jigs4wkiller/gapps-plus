@@ -3,7 +3,7 @@ name: Create Archive
 on:
   release:
     # Only use the types keyword to narrow down the activity types that will trigger your workflow.
-    types: [published, created, edited]
+    types: published, created, edited
 - name: Zip Release
   uses: TheDoctor0/zip-release@0.6.0
 jobs:
