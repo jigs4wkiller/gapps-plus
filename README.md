@@ -31,29 +31,53 @@ Stock roms are also supported but with less priority
 
 
 • ArCore
+
 • Assistant
+
 • Calculater
+
 • Calendar
+
 • CarrierServices
+
 • Chrome
+
 • Clock
+
 • Contacts and phone
+
 • Gboard
+
 • Gmail
+
 • Google Tags
+
 • Lens
+
 • Live wallpaper
+
 • Mark-up
+
 • Messages
+
 • ModuleMetadataGooglePrebuilt
+
 • Notes
+
 • Package Installer
+
 • Photos
+
 • Pixel Launcher
+
 • Pixel Tips
+
 • Play Games
+
 • Sound Picker
+
 • Storage Manger
+
 • Some more services and stuff to make everything working like expected
 
 
@@ -63,19 +87,33 @@ Stock roms are also supported but with less priority
 
 
 • Adaway
+
 • Some build.prop tweaks
+
 • Ruthless Launcher
+
 • OnePlus Sound Recorder port with pixel theme
+
 • Round icon mask (works only with the default theme)
+
 • Youtube Vanced Manager
+
 • Netflix stub
+
 • Runs fstrim
+
 • AOSP Recents with blurry background
+
 • Better sharing UI
+
 • Aggressive log disabling
+
 • Modded MIUI package installer without restrictions
+
 • AOSP inspired theme when you use the classic quick settings
+
 • Roundy pip
+
 • Google Dailer and messages integration ported from global rom with pixel apks
 
 
@@ -84,6 +122,7 @@ Stock roms are also supported but with less priority
 
 
 - All apps to which there is a Google alternative and a lot more.
+
 - All Xiaomi apps that aren’t relevant for booting!
 
 
