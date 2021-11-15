@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+	
+<dimen name="miuix_preference_category_gap_height">10dp</dimen>
+<dimen name="miuix_preference_category_no_title_height">10dip</dimen>
+
+
+<string name="my_device">Samsung s21</string>
+<string name="translation_contributo_title">Mashup v12.5</string>
+<string name="device_miui_version">Samsung s21</string>
+<string name="contributo_title">CostantinoSamsung s21</string>
+<string name="alpha_build">| Costantino Samsung s21 Alpha |</string>
+<string name="developer_build">| Costantino Samsung s21 Dev |</string>
+<string name="stable_build">| Costantino Samsung s21 Stable |</string>
+
+
+
+
+	<drawable name="preference_category_background_light.9.png">preference_category_background.9.png</drawable>
+	<drawable name="preference_category_background_first_light.9.png">preference_category_background_first.9.png</drawable>
+	<!-- 大背景 -->
+	<drawable name="settings_window_bg_light.9.png">background.9.png</drawable>
+	<drawable name="window_bg_light.9.png">background.9.png</drawable>
+	<!-- 顶栏 -->
+	<drawable name="action_mode_bg_light.9.png">action_bar_bg_light.9.png</drawable>
+	<!-- 底栏 -->
+	<drawable name="action_bar_split_bg_light.9.png">bottom_bar_bg.9.png</drawable>
+	<drawable name="action_bar_split_bg_expanded_light.9.png">bottom_bar_bg.9.png</drawable>
+	<!-- 刷新 -->
+	<drawable name="progressbar_indeterminate_circle_small_light.png">progressbar_indeterminate_circle_light.png</drawable>
+</MIUI_Theme_Values>

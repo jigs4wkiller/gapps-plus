@@ -1,0 +1,13 @@
+<permissions>
+  <privapp-permissions package="com.google.android.apps.tips">
+    <permission name="android.permission.ACCESS_NETWORK_STATE" />
+  <permission name="android.permission.INTERNET" />
+  <permission name="android.permission.READ_DEVICE_CONFIG" />
+  <permission name="android.permission.RECEIVE_BOOT_COMPLETED" />
+  <permission name="android.permission.USE_BIOMETRIC" />
+  <permission name="com.google.android.setupwizard.READ_DEVICE_ORIGIN_FIRST_PARTY" />
+  <permission name="com.google.android.apps.safetyhub.carcrash.settings.READ" />
+  <permission name="android.permission.GET_PACKAGE_SIZE" />
+  <permission name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+  </privapp-permissions>
+</permissions>

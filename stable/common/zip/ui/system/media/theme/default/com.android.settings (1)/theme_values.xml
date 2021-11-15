@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<string name="my_device">MIUI × GApps Plus</string>
+<string name="translation_contributo_title">jigs4wkiller</string>
+<string name="about_settings">GApps Plus for MIUI</string>
+<string name="contributo_title">jigs4wkiller</string>
+<string name="alpha_build">| GApps Plus by jigs4wkiller</string>
+<string name="developer_build">| GApps Plus by jigs4wkiller</string>
+<string name="stable_build">| GApps Plus by jigs4wkiller</string>
+<dimen name="preference_account_avatar_size">240.0dip</dimen>
+<dimen name="preference_account_padding_left">20.0dip</dimen>
+<dimen name="preference_account_padding_right">10.0dip</dimen>
+</MIUI_Theme_Values>

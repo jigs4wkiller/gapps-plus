@@ -1,0 +1,7 @@
+<permissions>
+  <privapp-permissions package="com.google.android.onetimeinitializer">
+    <permission name="android.permission.CHANGE_COMPONENT_ENABLED_STATE" />
+  <permission name="android.permission.RECEIVE_BOOT_COMPLETED" />
+  <permission name="com.google.android.onetimeinitializer.permission.ONE_TIME_INITIALIZED" />
+  </privapp-permissions>
+</permissions>

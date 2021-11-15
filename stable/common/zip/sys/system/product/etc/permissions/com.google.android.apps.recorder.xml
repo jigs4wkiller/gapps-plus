@@ -1,0 +1,13 @@
+<permissions>
+  <privapp-permissions package="com.google.android.apps.recorder">
+    <permission name="com.google.android.apps.recorder.permission.RECORDER_ORIGIN" />
+  <permission name="android.permission.ACCESS_FINE_LOCATION" />
+  <permission name="android.permission.ACCESS_NETWORK_STATE" />
+  <permission name="android.permission.FOREGROUND_SERVICE" />
+  <permission name="android.permission.INTERNET" />
+  <permission name="android.permission.RECORD_AUDIO" />
+  <permission name="android.permission.WAKE_LOCK" />
+  <permission name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+  <permission name="android.permission.GET_PACKAGE_SIZE" />
+  </privapp-permissions>
+</permissions>

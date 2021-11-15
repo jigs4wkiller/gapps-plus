@@ -1,0 +1,17 @@
+<permissions>
+  <privapp-permissions package="com.google.android.partnersetup">
+    <permission name="com.google.android.providers.settings.permission.WRITE_GSETTINGS" />
+  <permission name="com.google.android.providers.settings.permission.READ_GSETTINGS" />
+  <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE" />
+  <permission name="android.permission.ACCESS_WIFI_STATE" />
+  <permission name="android.permission.RECEIVE_BOOT_COMPLETED" />
+  <permission name="android.permission.INTERNET" />
+  <permission name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+  <permission name="com.google.android.providers.gsf.permission.WRITE_GSERVICES" />
+  <permission name="android.permission.CHANGE_COMPONENT_ENABLED_STATE" />
+  <permission name="android.permission.CHANGE_CONFIGURATION" />
+  <permission name="android.permission.ACCESS_NETWORK_STATE" />
+  <permission name="com.android.launcher.permission.PRELOAD_WORKSPACE" />
+  <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE" />
+  </privapp-permissions>
+</permissions>

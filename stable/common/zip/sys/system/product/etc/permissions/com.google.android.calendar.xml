@@ -1,0 +1,29 @@
+<permissions>
+  <privapp-permissions package="com.google.android.calendar">
+    <permission name="android.permission.GET_ACCOUNTS' maxSdkVersion='22" />
+  <permission name="android.permission.MANAGE_ACCOUNTS' maxSdkVersion='22" />
+  <permission name="android.permission.INTERNET" />
+  <permission name="android.permission.VIBRATE" />
+  <permission name="android.permission.READ_CONTACTS" />
+  <permission name="android.permission.READ_CALENDAR" />
+  <permission name="android.permission.WRITE_CALENDAR" />
+  <permission name="android.permission.WAKE_LOCK" />
+  <permission name="android.permission.USE_CREDENTIALS" />
+  <permission name="android.permission.READ_SYNC_SETTINGS" />
+  <permission name="android.permission.RECEIVE_BOOT_COMPLETED" />
+  <permission name="android.permission.ACCESS_COARSE_LOCATION" />
+  <permission name="android.permission.READ_SYNC_STATS" />
+  <permission name="android.permission.WRITE_SYNC_SETTINGS" />
+  <permission name="com.google.android.googleapps.permission.GOOGLE_AUTH" />
+  <permission name="android.permission.SUBSCRIBED_FEEDS_READ" />
+  <permission name="android.permission.SUBSCRIBED_FEEDS_WRITE" />
+  <permission name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+  <permission name="com.google.android.c2dm.permission.RECEIVE" />
+  <permission name="com.google.android.calendar.permission.C2D_MESSAGE" />
+  <permission name="android.permission.ACCESS_NETWORK_STATE" />
+  <permission name="com.google.android.gm.permission.READ_GMAIL" />
+  <permission name="com.google.android.gm.exchange.BIND" />
+  <permission name="android.permission.GET_PACKAGE_SIZE" />
+  <permission name="android.permission.FOREGROUND_SERVICE" />
+  </privapp-permissions>
+</permissions>

@@ -1,0 +1,17 @@
+<permissions>
+  <privapp-permissions package="com.google.android.pixel.setupwizard">
+    <permission name="android.permission.CHANGE_CONFIGURATION" />
+  <permission name="android.permission.GET_ACCOUNTS_PRIVILEGED" />
+  <permission name="android.permission.INTERNET" />
+  <permission name="android.permission.MANAGE_USERS" />
+  <permission name="android.permission.STATUS_BAR" />
+  <permission name="android.permission.WRITE_SETTINGS" />
+  <permission name="android.permission.WRITE_SECURE_SETTINGS" />
+  <permission name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+  <permission name="com.google.android.setupwizard.PARTNER_SETUP" />
+  <permission name="com.google.android.setupwizard.SETUP_COMPAT_SERVICE" />
+  <permission name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <permission name="android.permission.READ_PHONE_STATE" />
+  <permission name="android.permission.READ_EXTERNAL_STORAGE" />
+  </privapp-permissions>
+</permissions>
