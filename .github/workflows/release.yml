@@ -1,0 +1,19 @@
+name: Create Archive
+# Trigger the workflow on release activity
+on:
+  release:
+    # Only use the types keyword to narrow down the activity types that will trigger your workflow.
+    types: [published, created, edited]
+- name: Zip Release
+  uses: TheDoctor0/zip-release@0.6.0
+jobs:
+  build:
+    runs-on: android
+    steps:
+    - uses: actions/checkout@master
+    - name: Archive Release
+      uses: thedoctor0/zip-release@master
+      with:
+        type: 'zip'
+        filename: 'release.zip'
+        exclusions: '*.git* README.md'
