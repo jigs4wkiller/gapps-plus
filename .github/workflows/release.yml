@@ -4,10 +4,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+- name: Zip Release
+  uses: TheDoctor0/zip-release@0.6.0
 - name: Upload Release
   uses: ncipollo/release-action@v1
   with:
     artifacts: "release.zip"
-    token: ${{ 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 }}
         filename: 'release.zip'
         exclusions: '*.git* README.md'
+    token: ${{ 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 }}
