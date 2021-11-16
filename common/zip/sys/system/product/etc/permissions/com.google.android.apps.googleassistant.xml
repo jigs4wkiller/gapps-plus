@@ -1,5 +1,0 @@
-<permissions>
-  <privapp-permissions package="com.google.android.apps.googleassistant">
-    <permission name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
-  </privapp-permissions>
-</permissions>
