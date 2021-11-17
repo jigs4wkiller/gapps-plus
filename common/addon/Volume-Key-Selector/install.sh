@@ -5,7 +5,7 @@ chmod -R 0755 $MODPATH/common/addon/Volume-Key-Selector/tools
 chooseport() {
   # Keycheck binary by someone755 @Github, idea for code below by Zappo @xda-developers
   # Calling it first time detects previous input. Calling it second time will do what we want
-  [ "$1" ] && local delay=$1 || local delay=5
+  [ "$1" ] && local delay=$1 || local delay=30
   local error=false
   while true; do
     timeout 0 $MODPATH/common/addon/Volume-Key-Selector/tools/$ARCH32/keycheck
@@ -17,7 +17,7 @@ chooseport() {
       return 1
     else
       $error && abort "Volume key error!"
-      error=true
+      error=false
       echo "Volume key not detected. Try again"
     fi
   done
