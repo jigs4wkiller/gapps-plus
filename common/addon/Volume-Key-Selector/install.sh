@@ -8,8 +8,8 @@ chooseport() {
   [ "$1" ] && local delay=$1 || local delay=30
   local error=false
   while true; do
-    timeout 0 $MODPATH/common/addon/Volume-Key-Selector/tools/$ARCH32/keycheck
-    timeout $delay $MODPATH/common/addon/Volume-Key-Selector/tools/$ARCH32/keycheck
+    timeout 0 $MODPATH/common/addon/Volume-Key-Selector/tools/arm/keycheck
+    timeout $delay $MODPATH/common/addon/Volume-Key-Selector/tools/arm/keycheck
     local SEL=$?
     if [ $SEL -eq 42 ]; then
       return 0
